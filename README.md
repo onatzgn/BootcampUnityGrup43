@@ -29,6 +29,7 @@ U43 Unity Takımı
 - Hayvan yoldaşlar
 - Açık dünya
 - Zengin hikaye, çeşitli bulmacalar ve yan görevler
+- Multilayer
 
 ## Hedef Kitle
 
@@ -37,7 +38,7 @@ U43 Unity Takımı
 - Fantezi, aksiyon, macera ve platform türlerini sevenler
 - Doğa ve hayvan severler
 - Mobil ve PC oyuncuları
-- Hikaye odaklı ve tek oyunculu oyunları sevenler
+- Hikaye odaklı oyun oynamayı sevenler
 
 ## Product Backlog URL
 
