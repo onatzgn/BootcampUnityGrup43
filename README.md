@@ -1,6 +1,7 @@
 # **Takım İsmi**
 
 U43 Unity Takımı 
+![team_43](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/181013e9-c4b6-468a-999f-5071bc3b8bc6)
 
 # Oyun İle İlgili Bilgiler
 
