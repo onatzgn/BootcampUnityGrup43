@@ -8,10 +8,10 @@ U43 Unity Takımı
 
 |  | Ad Soyad   | Roller               |
 | :-------- | :------- | :------------------------- |
-| `resim` | `Onat Özgen` | Product Owner/Developer |
-| `resim` | `Reyhan Aygün` | Scrum Master/Developer |
+| ![onat](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/77cd9644-bcd8-4b65-a7cd-55696c15805d)` | `Onat Özgen` | Product Owner/Developer |
+| ![ben](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/b1f76621-be28-4d9b-b4f1-4f85fe9b1ac3)| `Reyhan Aygün` | Scrum Master/Developer |
 | `resim` | `Muhammet Seyfi Büyük` | Developer |
-| `resim` | `Onur Karasürmeli` | Developer |
+| ![onur](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/062bea74-e127-42f5-a08f-01975ec3fec3) | `Onur Karasürmeli` | Developer |
 
 
 ## Oyun İsmi
@@ -29,7 +29,7 @@ U43 Unity Takımı
 - Hayvan yoldaşlar
 - Açık dünya
 - Zengin hikaye, çeşitli bulmacalar ve yan görevler
-- Multilayer
+- Multiplayer
 
 ## Hedef Kitle
 
