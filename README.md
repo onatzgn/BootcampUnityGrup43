@@ -28,8 +28,8 @@ U43 Unity Takımı
 - Üstten bakış açılı kamera
 - Hayvan yoldaşlar
 - Açık dünya
-- Zengin hikaye, çeşitli bulmacalar ve yan görevler
 - Multiplayer
+- Zengin hikaye, bulmacalar ve yan görevler
 
 ## Hedef Kitle
 
@@ -50,9 +50,9 @@ https://trello.com/b/NZv8NgTM/unity-43
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 480 Puan 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Proje boyunca toplam 480 puanlık bir backlog bulunmaktadır. Her sprint için 160 puanlık bir hedef belirlenmiştir.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
