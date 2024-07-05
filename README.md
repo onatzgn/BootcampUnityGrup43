@@ -58,7 +58,12 @@ https://trello.com/b/NZv8NgTM/unity-43
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**:Daily Scrum toplantıları için gün içi iletişimde WhatsApp, akşam konuşmaları için ise Slack tercih edilmiştir.
+ <details>
+<summary>Daily Scrum Toplantı ScreenShotları</summary>
+   
+   | ![wp2 (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/df77cc3f-886e-47fb-9d88-f7a56665a396)|![wp1 (2)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/d8bb59da-6fe2-454c-99a3-f6f4961f08fb)| ![wp3 (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/02037980-2469-416b-abb3-ea446cb5010f)  |
+ </details>
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
