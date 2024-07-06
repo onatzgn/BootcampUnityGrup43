@@ -11,9 +11,9 @@ U43 Unity Takımı
 
 |  | Ad Soyad   | Roller               |
 | :-------- | :------- | :------------------------- |
-| ![onat](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/77cd9644-bcd8-4b65-a7cd-55696c15805d)` | `Onat Özgen` | Product Owner/Developer |
+| ![onat (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/14323a5c-1554-403c-8f34-afbec9bf9c9a) | `Onat Özgen` | Product Owner/Developer |
 | ![ben](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/b1f76621-be28-4d9b-b4f1-4f85fe9b1ac3)| `Reyhan Aygün` | Scrum Master/Developer |
-| `resim` | `Muhammet Seyfi Büyük` | Developer |
+|![seyfi (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/57c21d4f-b52c-4c8a-982e-f4139e01e5d5) | `Muhammet Seyfi Büyük` | Developer |
 | ![onur](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/062bea74-e127-42f5-a08f-01975ec3fec3) | `Onur Karasürmeli` | Developer |
 
 
