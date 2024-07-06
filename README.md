@@ -1,7 +1,9 @@
 # **Takım İsmi**
 
 U43 Unity Takımı 
-![team_43](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/181013e9-c4b6-468a-999f-5071bc3b8bc6)
+
+![team_43 (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/26c2d6ba-4427-4f58-9a7a-d0d248ef72a2)
+
 
 # Oyun İle İlgili Bilgiler
 
@@ -17,7 +19,7 @@ U43 Unity Takımı
 
 ## Oyun İsmi
 
-
+Momo Karanlık Güçlere Karşı
 
 ## Oyun Açıklaması
 
