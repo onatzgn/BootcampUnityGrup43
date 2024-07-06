@@ -70,8 +70,8 @@ https://trello.com/b/NZv8NgTM/unity-43
   
  <summary>Sprint Board Screenshotları</summary>
 
-| ![trello1](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/a224569e-5ca0-4962-b8e8-01e14c81502e)  | 
-| ![trello 2](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/5daf4c67-d90b-4d43-9f55-7be931ec8dae) |
+![trello1](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/a224569e-5ca0-4962-b8e8-01e14c81502e)
+![trello 2](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/5daf4c67-d90b-4d43-9f55-7be931ec8dae)
 
  </details>
  
@@ -80,8 +80,9 @@ https://trello.com/b/NZv8NgTM/unity-43
  <summary>Oyunun Screenshotları</summary>
 
 
-|![açık_dünya_örnek_sahnesi](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/88e41c09-85a2-4da0-89ca-bc9d367930e5) | 
-|![karakter](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/3e1ad81c-e403-4693-8b10-b8eaec5be58a)|    
+![açık_dünya_örnek_sahnesi](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/88e41c09-85a2-4da0-89ca-bc9d367930e5)
+![karakter](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/3e1ad81c-e403-4693-8b10-b8eaec5be58a)  
+![blender](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/be2e4108-7e2c-463f-b629-2cf590e32b15)
 
 
  </details>
