@@ -53,15 +53,10 @@ https://trello.com/b/NZv8NgTM/unity-43
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 480 Puan 
 
 - **Puan tamamlama mantığı**: Proje boyunca toplam 480 puanlık bir backlog bulunmaktadır. Her sprint için 160 puanlık bir hedef belirlenmiştir.
-
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
-
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
 - **Daily Scrum**:Daily Scrum toplantıları için gün içi iletişimde WhatsApp, akşam konuşmaları için ise Slack tercih edilmiştir.
  <details>
@@ -70,29 +65,37 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
    | ![wp2 (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/df77cc3f-886e-47fb-9d88-f7a56665a396)|![wp1 (2)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/d8bb59da-6fe2-454c-99a3-f6f4961f08fb)| ![wp3 (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/02037980-2469-416b-abb3-ea446cb5010f)  |
  </details>
 
-- **Sprint board update**: Sprint board screenshotları: 
+- **Sprint board update**: 
+ <details>
+  
+ <summary>Sprint Board Screenshotları</summary>
 
+| ![trello1](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/a224569e-5ca0-4962-b8e8-01e14c81502e)  | 
+| ![trello 2](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/5daf4c67-d90b-4d43-9f55-7be931ec8dae) |
+
+ </details>
+ 
 - **Ürün Durumu**: 
  <details>
- <summary>Oyunumuzun Görüntüleri</summary>
+ <summary>Oyunun Screenshotları</summary>
 
 
-|![açık_dünya_örnek_sahnesi](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/88e41c09-85a2-4da0-89ca-bc9d367930e5) | Character |
-| ---      | ---       |
-|![karakter](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/3e1ad81c-e403-4693-8b10-b8eaec5be58a)|        |
-| Pipe     | \|        |
-  
+|![açık_dünya_örnek_sahnesi](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/88e41c09-85a2-4da0-89ca-bc9d367930e5) | 
+
+|![karakter](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/3e1ad81c-e403-4693-8b10-b8eaec5be58a)|    
+|      | 
+
  </details>
 
 - **Sprint Review**: Alınan kararlar: Oyun low poly tarzında tasarlanacaktır. Ücretsiz bulduğumuz assetleri uygun bulmadığımız için Blender'da kendimiz tasarlama kararı aldık. Projede iyi bir ilerleme kaydedildiği için oyunu derinleştirmek amacıyla yan görevler ekleme kararı aldık. Bu güncellemeler, oyun dünyasının görsel tutarlılığını sağlamak ve oyunculara daha zengin bir deneyim sunmak adına yapılmıştır. Blender kullanarak özgün low poly modeller tasarlayacağız ve yan görevler ile oyunun içeriğini genişleteceğiz.
-  
-  -Sprint Review katılımcıları: Reyhan Aygün, Onat Özgen, Muhammed Seyfi Büyük, Onur Karasürmeli
+- Sprint Review katılımcıları: Reyhan Aygün, Onat Özgen, Muhammed Seyfi Büyük, Onur Karasürmeli
 
 
 - **Sprint Retrospective:**
   - Grubumuzdan bir arkadaşımız ayrılmıştır ve projeye dört kişi olarak devam edilmektedir. Bu yüzden roller yeniden düzenlenmiştir.
   - Blender tasarımı konusunda görev dağılımı yapılmıştır.
   - Oyunun bazı kısımlarında tutarsızlıklar tespit edilmiştir. Bu nedenle, test sürelerine ve iyileştirme çalışmalarına yoğunlaşma kararı alınmıştır.
+  - Oyunun ismi ve logosu üzerinde geliştirmeler yapılacaktır.
 
 -**Diğer Notlar**:
 
