@@ -73,7 +73,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - **Sprint board update**: Sprint board screenshotları: 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-
+- 
+ <details>
+ <summary>Oyunumuzun ScreenShotları</summary>
+|![açık_dünya_örnek_sahnesi](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/1f2bfbec-525e-42c4-ac7b-f3bab37eb33d) | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+  
+ </details>
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
