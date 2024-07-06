@@ -72,13 +72,14 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 - **Sprint board update**: Sprint board screenshotları: 
 
-- **Ürün Durumu**: Ekran görüntüleri:
-- 
+- **Ürün Durumu**: 
  <details>
- <summary>Oyunumuzun ScreenShotları</summary>
-|![açık_dünya_örnek_sahnesi](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/1f2bfbec-525e-42c4-ac7b-f3bab37eb33d) | Character |
+ <summary>Oyunumuzun Görüntüleri</summary>
+
+
+|![açık_dünya_örnek_sahnesi](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/88e41c09-85a2-4da0-89ca-bc9d367930e5) | Character |
 | ---      | ---       |
-| Backtick | `         |
+|![karakter](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/3e1ad81c-e403-4693-8b10-b8eaec5be58a)|        |
 | Pipe     | \|        |
   
  </details>
