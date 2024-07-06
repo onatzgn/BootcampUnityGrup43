@@ -90,13 +90,12 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Sprint Retrospective:**
-  - Grubumuzdan bir arkadaşımız ayrılmıştır ve dört kişi olarak projeye devam etme kararı alınmıştır.
-  - 
-  - 
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Grubumuzdan bir arkadaşımız ayrılmıştır ve projeye dört kişi olarak devam edilmektedir. Bu yüzden roller yeniden düzenlenmiştir.
+  - Blender tasarımı konusunda görev dağılımı yapılmıştır.
+  - Oyunun bazı kısımlarında tutarsızlıklar tespit edilmiştir. Bu nedenle, test sürelerine ve iyileştirme çalışmalarına yoğunlaşma kararı alınmıştır.
 
 -**Diğer Notlar**:
-- N/A
+
 
 ---
 
