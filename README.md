@@ -81,9 +81,8 @@ https://trello.com/b/NZv8NgTM/unity-43
 
 
 |![açık_dünya_örnek_sahnesi](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/88e41c09-85a2-4da0-89ca-bc9d367930e5) | 
-
 |![karakter](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/3e1ad81c-e403-4693-8b10-b8eaec5be58a)|    
-|      | 
+
 
  </details>
 
