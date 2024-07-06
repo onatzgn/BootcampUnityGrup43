@@ -20,10 +20,12 @@ U43 Unity Takımı
 ## Oyun İsmi
 
 Momo Karanlık Güçlere Karşı
+![momo (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/d2379967-fda5-4aea-85a2-0676b3783141)
+
 
 ## Oyun Açıklaması
 
-- Oyunumuz, doğanın süper kahramanı olmaya aday karakterimizin, hayvan dostlarıyla beraber karanlık güçlere karşı amansız bir mücadele verdiği, doğayla iç içe geçen epik bir macerayı konu alır. 
+- Oyunumuz, doğayla iç içe yaşayan ve hayvanlarla iletişim kurma yeteneğine sahip karakterimizin, hayvan dostlarıyla beraber karanlık güçlere karşı amansız bir mücadele verdiği, doğayla iç içe geçen epik bir macerayı konu alır. 
 
 ## Ürün Özellikleri
 
