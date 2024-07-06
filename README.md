@@ -84,10 +84,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   
  </details>
 
-- **Sprint Review**: 
--Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir.
+- **Sprint Review**: Alınan kararlar: Oyun low poly tarzında tasarlanacaktır. Ücretsiz bulduğumuz assetleri uygun bulmadığımız için Blender'da kendimiz tasarlama kararı aldık. Projede iyi bir ilerleme kaydedildiği için oyunu derinleştirmek amacıyla yan görevler ekleme kararı aldık. Bu güncellemeler, oyun dünyasının görsel tutarlılığını sağlamak ve oyunculara daha zengin bir deneyim sunmak adına yapılmıştır. Blender kullanarak özgün low poly modeller tasarlayacağız ve yan görevler ile oyunun içeriğini genişleteceğiz.
+  
+  -Sprint Review katılımcıları: Reyhan Aygün, Onat Özgen, Muhammed Seyfi Büyük, Onur Karasürmeli
 
--Sprint Review katılımcıları: Reyhan Aygün, Onat Özgen, Muhammed Seyfi Büyük, Onur Karasürmeli..
 
 - **Sprint Retrospective:**
   - Grubumuzdan bir arkadaşımız ayrılmıştır ve dört kişi olarak projeye devam etme kararı alınmıştır.
