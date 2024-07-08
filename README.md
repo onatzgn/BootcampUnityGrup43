@@ -98,6 +98,8 @@ https://trello.com/b/NZv8NgTM/unity-43
   - Oyunun ismi ve logosu üzerinde geliştirmeler yapılacaktır.
 
 -**Sprint Notları**:
+
+
 ![IMG_4066](https://github.com/onatzgn/BootcampUnityGrup43/assets/145926520/400a89b0-2689-4dad-9220-73116fb9340b)
 Tamamlanması Gereken Puan : 160
 Tamamlanan Puan : 160
