@@ -104,6 +104,7 @@ https://trello.com/b/NZv8NgTM/unity-43
 
 
 Tamamlanması Gereken Puan : 160
+
 Tamamlanan Puan : 160
 
 ---
