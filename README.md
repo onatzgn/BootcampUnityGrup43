@@ -110,7 +110,60 @@ Tamamlanan Puan : 160
 ---
 
 # Sprint 2
+- **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+  
+- **Daily Scrum**: Daily Scrum toplantıları için gün içi iletişimde WhatsApp, akşam konuşmaları için ise Slack tercih edilmiştir. İki günde bir toplantı düzenlenmiştir.
+ <details>
+<summary>Daily Scrum Toplantı ScreenShotları</summary>
+   
+   |![wp4 (1)](https://github.com/user-attachments/assets/1c9639c4-74bb-4fb1-9b62-896b622f91aa)|![wp5 (1)](https://github.com/user-attachments/assets/89ded34e-bd7f-4552-ba5f-e418a7c4773b)| ![wp6 (1)](https://github.com/user-attachments/assets/b4db7263-7336-4c16-a56f-dfae05b4e98c)  |
+   
+ </details>
+ 
+- **Sprint board update**: 
+ <details>
+  
+ <summary>Sprint Board Screenshotları</summary>
+ 
+![trelloekran](https://github.com/user-attachments/assets/aef1929a-3479-4cbb-a6ea-128609a67566)
+![trelloekran2](https://github.com/user-attachments/assets/eec98365-4832-4970-81ec-60d98b00f80d)
 
+ </details>
+
+ - **Ürün Durumu**: 
+ <details>
+ <summary>Oyunun Screenshotları</summary>
+  
+![oyunıcıgorsel](https://github.com/user-attachments/assets/eea0c6e5-1a81-4f2f-8f7f-d13d1f0efd74)
+![oyunıcı](https://github.com/user-attachments/assets/6e4e08d8-c4c8-47ed-b39f-b53ddb3c793b)
+
+ </details>
+ 
+- **Sprint Review**: Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Alınan kararlar:
+  - Projeye oyun içi mağaza eklenmesine karar verilmiştir. Oyun içerisinde tamamlanan leveller ve yan görevlerden kazanılan paralar ile mağazadan eşyalar satın alınabilecektir.
+  - Blender konusunda sınırlı bilgiye sahip olunması ve zaman kısıtlamaları nedeniyle istenilen sonuçlar elde edilememiştir. Bu sebeple, açık dünya ve leveller Unity içerisinde tasarlanacaktır.
+
+
+- Sprint Review katılımcıları: Reyhan Aygün, Onat Özgen, Muhammed Seyfi Büyük, Onur Karasürmeli
+
+
+- **Sprint Retrospective:**
+  - Takım üyelerinin gelecek sprintte daha aktif olmaları gerektiğine vurgu yapılmıştır.
+  - Oyunun logosu üzerindeki geliştirmeler sonraki sprinte bırakılmıştır.
+  - Tamamlanan tüm leveller ve açık dünya, ses, ışık ve particle efektleri ile güzelleştirilecektir.
+  - Karakter UI'ı üzerinde çalışılacaktır.
+
+-**Diğer Notlar**:
+Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
+Tamamlanması Gereken Puan: 160
+Tamamlanan Puan: 160
+ <details>
+ <summary>Sprint Planı</summary>
+
+![sprint 2](https://github.com/user-attachments/assets/0c417d0c-6953-4d38-9ca5-204aba49aa47)
+
+
+ </details>
 
 ---
 
