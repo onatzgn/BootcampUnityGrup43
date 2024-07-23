@@ -110,7 +110,21 @@ Tamamlanan Puan : 160
 ---
 
 # Sprint 2
+- **Sprint notları**: Ekibimiz, açık dünya ve level tasarımlarını geliştirmeye devam etmektedir. Sahne aydınlatmaları, VFX, partiküller ve animasyonlar üzerinde çalışmalara başlanmıştır. Hedefimiz, oyunun performansını optimize etmek ve tüm bölüm ve mekaniklerin stabil çalıştığını doğrulamaktır.
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+ 
+- **Puan tamamlama mantığı**:
+Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
+Tamamlanması Gereken Puan: 160
+Tamamlanan Puan: 160
+ <details>
+ <summary>Sprint Planı</summary>
+
+![sprint 2](https://github.com/user-attachments/assets/0c417d0c-6953-4d38-9ca5-204aba49aa47)
+
+
+ </details>
   
 - **Daily Scrum**: Daily Scrum toplantıları için gün içi iletişimde WhatsApp, akşam konuşmaları için ise Slack tercih edilmiştir. İki günde bir toplantı düzenlenmiştir.
  <details>
@@ -154,16 +168,8 @@ Tamamlanan Puan : 160
   - Karakter UI'ı üzerinde çalışılacaktır.
 
 -**Diğer Notlar**:
-Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
 Tamamlanması Gereken Puan: 160
 Tamamlanan Puan: 160
- <details>
- <summary>Sprint Planı</summary>
-
-![sprint 2](https://github.com/user-attachments/assets/0c417d0c-6953-4d38-9ca5-204aba49aa47)
-
-
- </details>
 
 ---
 
