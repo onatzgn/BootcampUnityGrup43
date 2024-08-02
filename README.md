@@ -2,8 +2,6 @@
 
 U43 Unity Takımı 
 
-![team_43 (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/26c2d6ba-4427-4f58-9a7a-d0d248ef72a2)
-
 
 # Oyun İle İlgili Bilgiler
 
@@ -19,21 +17,21 @@ U43 Unity Takımı
 
 ## Oyun İsmi
 
-Momo Karanlık Güçlere Karşı
-![momo (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/d2379967-fda5-4aea-85a2-0676b3783141)
-
+Momo Against the Dark Forces
 
 ## Oyun Açıklaması
 
-- Oyunumuz, doğayla iç içe yaşayan ve hayvanlarla iletişim kurma yeteneğine sahip karakterimizin, hayvan dostlarıyla beraber karanlık güçlere karşı amansız bir mücadele verdiği, doğayla iç içe geçen epik bir macerayı konu alır. 
+- Momo: Against the Dark Forces, oyuncuları büyüleyici bir açık dünyada karanlık güçlerle mücadeleye davet eden heyecan verici bir 3D macera oyunudur. Oyuncular, doğanın dengesini yeniden sağlamak için yola çıkan cesur bir karakterin kontrolünü ele alır.
+- Oyun, iki ana aşamadan oluşur: Büyüleyici adalarda başlayan macera, karanlık mağaralarda devam eder.
+- Oyun mekanikleri arasında hareket etme, zıplama, etkileşim ve düşmanlarla mücadele bulunur. Ayrıca, çeşitli yan görevler ve toplanabilir eşyalar oyuna derinlik katmaktadır.
+-Low poly grafikler ve etkileyici sahne tasarımlarıyla dolu bu macerada, oyuncular Momo'nun hikayesini keşfedecek ve doğanın dengesini geri getirme yolunda destansı bir yolculuğa çıkacaklar.
+- Karanlık güçlere karşı savaşta yerinizi alın ve kahraman olarak geri dönün!
 
 ## Ürün Özellikleri
 
 - 3D
 - Üstten bakış açılı kamera
-- Hayvan yoldaşlar
 - Açık dünya
-- Multiplayer
 - Zengin hikaye, bulmacalar ve yan görevler
 
 ## Hedef Kitle
@@ -57,6 +55,13 @@ https://trello.com/b/NZv8NgTM/unity-43
 - **Sprint içinde tamamlanması tahmin edilen puan**: 480 Puan 
 
 - **Puan tamamlama mantığı**: Proje boyunca toplam 480 puanlık bir backlog bulunmaktadır. Her sprint için 160 puanlık bir hedef belirlenmiştir.
+<details>
+ <summary>Sprint Planı</summary>
+
+![sprint 1](https://github.com/user-attachments/assets/f3257927-fa70-4dc0-9ac3-030f06a8d66d)
+
+
+ </details>
 
 - **Daily Scrum**:Daily Scrum toplantıları için gün içi iletişimde WhatsApp, akşam konuşmaları için ise Slack tercih edilmiştir.
  <details>
@@ -70,8 +75,8 @@ https://trello.com/b/NZv8NgTM/unity-43
   
  <summary>Sprint Board Screenshotları</summary>
 
-![trello1](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/a224569e-5ca0-4962-b8e8-01e14c81502e)
-![trello 2](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/5daf4c67-d90b-4d43-9f55-7be931ec8dae)
+![trello3_1](https://github.com/user-attachments/assets/c786c132-3aad-4c1f-a666-8fce6af9ca07)
+![trello3_2](https://github.com/user-attachments/assets/a8847755-32f7-4a46-ba2f-9ee45b7fcb9e)
 
  </details>
  
@@ -97,19 +102,14 @@ https://trello.com/b/NZv8NgTM/unity-43
   - Oyunun bazı kısımlarında tutarsızlıklar tespit edilmiştir. Bu nedenle, test sürelerine ve iyileştirme çalışmalarına yoğunlaşma kararı alınmıştır.
   - Oyunun ismi ve logosu üzerinde geliştirmeler yapılacaktır.
 
--**Sprint Notları**:
+-**Diğer Notlar**:
+Tamamlanması Gereken Puan: 160
+Tamamlanan Puan: 160
 
 
-![IMG_4066](https://github.com/onatzgn/BootcampUnityGrup43/assets/145926520/400a89b0-2689-4dad-9220-73116fb9340b)
-
-
-Tamamlanması Gereken Puan : 160
-
-Tamamlanan Puan : 160
-
----
 
 # Sprint 2
+
 - **Sprint notları**: Ekibimiz, açık dünya ve level tasarımlarını geliştirmeye devam etmektedir. Sahne aydınlatmaları, VFX, partiküller ve animasyonlar üzerinde çalışmalara başlanmıştır. Hedefimiz, oyunun performansını optimize etmek ve tüm bölüm ve mekaniklerin stabil çalıştığını doğrulamaktır.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
@@ -171,10 +171,86 @@ Tamamlanan Puan: 160
 Tamamlanması Gereken Puan: 160
 Tamamlanan Puan: 160
 
----
 
 # Sprint 3
 
----
+- **Sprint notları**: Ekibimiz, Momo Against the Dark Forces oyununu geliştirmeye devam edecektir. 
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+ 
+- **Puan tamamlama mantığı**:
+Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. Hayvan yoldaşlar fikri iptal edilmiştir bu nedenle önceden belirlenen ayı mekanikleri yapılmamıştır. 
+
+Tamamlanması Gereken Puan: 160
+Tamamlanan Puan: 130
+
+ <details>
+ <summary>Sprint Planı</summary>
+
+![sprint3](https://github.com/user-attachments/assets/a02515ec-4882-47d0-a438-fe25cd02724c)
+
+
+ </details>
+  
+- **Daily Scrum**: Daily Scrum toplantıları için gün içi iletişimde WhatsApp, akşam konuşmaları için ise Slack tercih edilmiştir. İki günde bir toplantı düzenlenmiştir.
+ <details>
+<summary>Daily Scrum Toplantı ScreenShotları</summary>
+   
+![wp3_1](https://github.com/user-attachments/assets/4a3b1aed-dafa-4803-a462-bfaf5769810b)
+![wp3_3](https://github.com/user-attachments/assets/b9b44162-a8d3-4b46-bcd1-32688db9c1e1)
+![wp3_2](https://github.com/user-attachments/assets/2f6f3074-db50-450a-8366-269f1b7128c6)
+   
+ </details>
+ 
+- **Sprint board update**: 
+ <details>
+  
+ <summary>Sprint Board Screenshotları</summary>
+ 
+![trello3_1](https://github.com/user-attachments/assets/c2f68845-aed1-4543-85dc-a113e0e288f2)
+![trello3_2](https://github.com/user-attachments/assets/557cb434-5191-4775-ba21-d8003f27bc32)
+
+ </details>
+
+ - **Ürün Durumu**: 
+ <details>
+ <summary>Oyunun Screenshotları</summary>
+  
+  ![menu](https://github.com/user-attachments/assets/9fcd519e-e937-4b37-b2b6-5287b125908b)
+  ![seyfi](https://github.com/user-attachments/assets/a02a278c-d274-4811-a0f5-06bc184d859b)
+  ![onur](https://github.com/user-attachments/assets/593757cd-141c-414d-9320-d1dcc786a4ef)
+  ![kasaba](https://github.com/user-attachments/assets/6be86de3-7041-4861-b942-97cd89808e6f)
+  ![sirk](https://github.com/user-attachments/assets/736abc12-9829-429d-8ef3-29da2a9f58af)
+  ![oyun3](https://github.com/user-attachments/assets/730d9014-ae50-45e4-b519-b201b171fe9f)
+  ![oyun1](https://github.com/user-attachments/assets/702a3cdb-a211-4da8-b9a8-c218e7fb6cde)
+  ![oyun2](https://github.com/user-attachments/assets/7dd9c1aa-a071-494b-abe7-027dae73972a)
+
+
+ </details>
+ 
+- **Sprint Review**: Sprint 3'ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir.
+   
+  - Hayvan yoldaşlar ve multiplayer fikirleri, oyuna katkı sağlamadığı için iptal edilmiştir.
+  - Orman, mağaralar ve dağlar olarak planladığımız üç level'ı ikiye düşürdük. Orman ve dağ level'larını birleştirdik.
+  - Mağaza ekleme fikri iptal edilmiştir.
+  - Oyuna tekne sürme mekaniği dahil edilmiştir.
+  - Oyunun isminin ingilizce olmasına karar verilmiştir.
+  - Logo tasarlamak yerine sade bir font seçilmiştir. 
+
+
+- Sprint Review katılımcıları: Reyhan Aygün, Onat Özgen, Muhammed Seyfi Büyük, Onur Karasürmeli
+
+
+- **Sprint Retrospective:**
+- Projemizde kısa sürede çok fazla iş yapmayı hedefledik, ancak beklentilerimizi karşılayamadık ve planladığımız işlerin çoğunu tamamlayamadık. Bu durum, zaman yönetimi ve kaynak planlaması açısından eksikliklerimizin olduğunu göstermektedir. Proje ekibimizin bu deneyimden ders çıkararak daha gerçekçi hedefler belirlemesi ve zaman yönetimi konusunda daha dikkatli olması gerekmektedir. Bu doğrultuda, gelecekteki projelerde daha verimli bir şekilde çalışarak, belirlenen hedeflere ulaşmayı amaçlıyoruz.
+    
+
+
+
+-**Momo Against the Dark Forces Tanıtım Videosu**: https://youtu.be/XurbWbQx_Wg
+
+
+-**Diğer Notlar**: Oyunumuz başta tasarladığımızdan farklı bir noktaya evrilmiştir. Yine de ortaya çıkan sonuçtan memnunuz.
+
 
   
